@@ -1,0 +1,13 @@
+PODS:
+  - Genome (1.0.4)
+  - ObjectMapper (0.19)
+
+DEPENDENCIES:
+  - Genome
+  - ObjectMapper
+
+SPEC CHECKSUMS:
+  Genome: f0e4174695eb73d72398500417e4f61a0958e97b
+  ObjectMapper: a88114e5df20f055da63029f25cbc01014847c91
+
+COCOAPODS: 0.39.0
